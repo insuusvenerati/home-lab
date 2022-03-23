@@ -2,6 +2,7 @@
   enabled: true,
   timezone: "America/Chicago",
   dependencyDashboard: true,
+  dependencyDashboardApproval: true,
   "regexManagers": [
     // regexManager to read and process helm repositories
     {
